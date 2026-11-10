@@ -3,4 +3,4 @@ project(Progetto_Integral_Image)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Progetto_Integral_Image main.cpp)
+add_executable(Progetto_Integral_Image main.cpp STBImage.cpp STBImage.h)
